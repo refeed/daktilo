@@ -15,3 +15,5 @@ and programming.
 
 > What makes the desert beautiful is that somewhere it hides a well.
 \- Antoine de Saint-Exupery
+
+> 過ぎたるは 及ばざるが如し
