@@ -11,9 +11,9 @@ and programming.
 > Imperfection makes something perfect.
 
 > As much as talent counts, effort counts twice
-\- Angela Duckworth of the University of Pennsylvania, in “Grit”, published in 2016.
+\- (Angela Duckworth of the University of Pennsylvania, in “Grit”, published in 2016.)
 
 > What makes the desert beautiful is that somewhere it hides a well.
-\- Antoine de Saint-Exupery
+\- (Antoine de Saint-Exupery)
 
 > 過ぎたるは 及ばざるが如し
