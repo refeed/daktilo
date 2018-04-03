@@ -17,3 +17,6 @@ and programming.
 \- (Antoine de Saint-Exupery)
 
 > 過ぎたるは 及ばざるが如し
+
+> Let's teach for mastery -- not test scores
+\- (Sal Khan)
