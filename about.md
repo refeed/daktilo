@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who is <span class='glitch'>refeed</span>?
+title: Who is refeed?
 subtitle: Guess who am I ;-)
 permalink: /about/
 ---
